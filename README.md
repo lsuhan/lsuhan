@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 천재 개발자 이수한 입니다 👋
+- 🔭 I’m currently working on ...
 <!--
 **lsuhan/lsuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
